@@ -1,13 +1,23 @@
 
-/* Module and purpose: Jogador - representa um participante
- * e guarda a sua posição no tabuleiro.
+/* Module and purpose:
+ * Jogador - representa um participante
+ * e guarda a sua posicao no tabuleiro.
+ *
  * Student name/number and implemented contributions:
- * (Abdnego Quiala - 30015280) - implementação da classe Jogador.
+ * Abdnego Quiala - 30015280:
+ * implementacao inicial da classe Jogador.
+ *
  * Collaborator/reviewer and contribution:
- * Ainda sem revisão de outro membro.
- * AI assistance: ChatGPT - apoio à implementação
- * e explicação do código; ver AI_USE.md.
+ * Vasco Coelho - 30016314:
+ * colaboracao prevista na integracao das regras.
+ * Pedro Cubi - 30016324:
+ * colaboracao prevista na integracao com a interface.
+ *
+ * AI assistance:
+ * ChatGPT - apoio na implementacao e explicacao
+ * do codigo; ver AI_USE.md.
  */
+
 package jogo;
 
 public class Jogador {

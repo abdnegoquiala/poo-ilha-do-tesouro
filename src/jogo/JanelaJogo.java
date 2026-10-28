@@ -1,13 +1,25 @@
 
-/* Module and purpose: JanelaJogo - apresenta a interface
- * gráfica do jogo Ilha do Tesouro.
+/* Module and purpose:
+ * JanelaJogo - apresenta a interface grafica
+ * do jogo Ilha do Tesouro.
+ *
  * Student name/number and implemented contributions:
- * (Abdnego Quiala - 30015280) - estrutura inicial da janela.
+ * Abdnego Quiala - 30015280:
+ * implementacao do prototipo inicial da janela.
+ *
  * Collaborator/reviewer and contribution:
- * Ainda sem revisão registada.
- * AI assistance: ChatGPT - apoio na implementação
- * e explicação de Swing; ver AI_USE.md.
+ * Pedro Cubi - 30016324:
+ * responsavel pela evolucao da interface grafica,
+ * botoes e testes de interacao.
+ * Vasco Coelho - 30016314:
+ * responsavel pela futura integracao visual
+ * das regras e casas especiais.
+ *
+ * AI assistance:
+ * ChatGPT - apoio na implementacao inicial
+ * e explicacao de Java Swing; ver AI_USE.md.
  */
+
 
 
 package jogo;

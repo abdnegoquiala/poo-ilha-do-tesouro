@@ -1,12 +1,25 @@
 
-/* Module and purpose: Main - ponto de entrada do jogo.
+/* Module and purpose:
+ * Main - ponto de entrada do jogo Ilha do Tesouro.
+ *
  * Student name/number and implemented contributions:
- * (Abdnego Quiala - 30015280) - implementação inicial.
+ * Abdnego Quiala - 30015280:
+ * implementacao inicial do ponto de entrada.
+ *
  * Collaborator/reviewer and contribution:
- * Nenhuma revisão registada nesta versão.
- * AI assistance: ChatGPT - explicação e exemplo inicial;
- * ver AI_USE.md.
+ * Pedro Cubi - 30016324:
+ * responsavel pela futura evolucao
+ * da inicializacao da interface grafica.
+ * Vasco Coelho - 30016314:
+ * responsavel pela integracao futura
+ * das regras do tabuleiro.
+ *
+ * AI assistance:
+ * ChatGPT - apoio na implementacao
+ * e explicacao do codigo; ver AI_USE.md.
  */
+
+
 package jogo;
 
 public class Main {
